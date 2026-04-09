@@ -1,2 +1,22 @@
-# Keyboard-V2
-small, compact keyboard for everyday use
+# Keyboard-V2  
+**small, compact keyboard for everyday use**  
+
+```
+["Esc","1","2","3","4","5","6","7","8","9","0","-","=",{w:2},"Backspace"],  
+[{w:1.5},"Tab","Q","W","E","R","T","Y","U","I","O","P","[","]",{w:1.5},"\\"],  
+[{w:1.75},"Caps","A","S","D","F","G","H","J","K","L",";","'",{w:2.25},"Enter"],  
+[{w:2.25},"Shift","Z","X","C","V","B","N","M",",",".","/",{w:2.75},"Shift"],  
+[{w:1.25},"Ctrl",{w:1.25},"Win",{w:1.25},"Alt",{w:6.25},"Space",{w:1.25},"Alt",{w:1.25},"Fn",{w:1.25},"Ctrl",{w:1.25},"Esc"]  
+
+```
+
+
+
+Keycaps  //  https://www.aliexpress.com/item/1005007360831985.html  
+
+
+
+
+
+
+
