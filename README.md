@@ -13,7 +13,7 @@
 
 
 Keycaps  //  https://www.aliexpress.com/item/1005007360831985.html  
-
+RPI pico, RP2040 TYPE-C  //  https://www.aliexpress.com/item/1005008714908011.html  
 
 
 
