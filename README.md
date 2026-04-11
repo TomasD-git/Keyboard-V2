@@ -21,9 +21,7 @@ Row 5 [Ctrl , Win, Alt, Null, Null, Null, Space, Null, Null,  Null, Alt, Fn, Ctr
 
 ```
 
-Keycaps  //  https://www.aliexpress.com/item/1005007360831985.html  
-RPI pico, RP2040 TYPE-C  //  https://www.aliexpress.com/item/1005008714908011.html  
-M2xL3xOD3.2, Heatset inserts  //  https://www.aliexpress.com/item/1005006838108683.html  
+
 
 
 
