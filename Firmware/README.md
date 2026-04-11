@@ -1,5 +1,5 @@
 # Here is you can find firmware files  
-## Down here is seup:  
+## Down here is setup:  
 ## Step 1 — Flash CircuitPython onto the Pico
 
 
