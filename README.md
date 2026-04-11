@@ -10,7 +10,16 @@
 
 ```
 
+```
 
+        C1  , C2  ,C3 , C4  ,  C5 , C6  ,  C7  , C8  ,  C9 ,  C10 , C11,C12, C13 ,    C14
+Row 1 [    ;,    1,  2,    3,    4,    5,     6,    7,    8,     9,   0,  -,    =, backspace]
+Row 2 [  tap,    q,  w,    e,    r,    t,     y,    u,    i,     o,   p,  [,    ],    /     ]
+Row 3 [ Caps,    a,  s,    d,    f,    g,     h,    j,    k,     l,   ;,  ', Null,   Enter  ]
+Row 4 [Shift, Null,  z,    x,    c,    v,     b,    n,    m, comma,   .,  /, Null,  Shift   ]
+Row 5 [Ctrl , Win, Alt, Null, Null, Null, Space, Null, Null,  Null, Alt, Fn, Ctrl,  Esc     ]
+
+```
 
 Keycaps  //  https://www.aliexpress.com/item/1005007360831985.html  
 RPI pico, RP2040 TYPE-C  //  https://www.aliexpress.com/item/1005008714908011.html  
