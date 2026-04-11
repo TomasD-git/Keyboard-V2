@@ -1,5 +1,6 @@
 # Keyboard-V2
-A small, compact keyboard for everyday use.
+**A small, compact keyboard for everyday use.**
+<img width="1197" height="705" alt="Screenshot 2026-04-11 211753" src="https://github.com/user-attachments/assets/f20de9b2-a44a-4ada-bf85-db1aa76dd3aa" />
 
 ## Layout
 
@@ -30,8 +31,14 @@ The Keyboard-V2 uses a key matrix to scan all rows and columms. The Fn key enabl
 
 <details>
   <summary>Pictures</summary>
-
- 
+<img width="819" height="283" alt="Screenshot 2026-04-09 153726" src="https://github.com/user-attachments/assets/683ec29a-9837-499f-a3dc-e068a6107ffd" />
+<img width="1123" height="723" alt="Screenshot 2026-04-10 200309" src="https://github.com/user-attachments/assets/a5c9a06c-92a4-42b2-9aea-1ef65380335c" />
+<img width="356" height="474" alt="Screenshot 2026-04-11 184744" src="https://github.com/user-attachments/assets/ef492f3b-a6a6-4367-ad02-a08eb90c64b6" />
+<img width="1252" height="813" alt="Screenshot 2026-04-11 184757" src="https://github.com/user-attachments/assets/6d5805df-149f-4ffc-a428-c73a2d6ea812" />
+<img width="845" height="754" alt="Screenshot 2026-04-11 211805" src="https://github.com/user-attachments/assets/bea24c99-a701-4e40-b68b-7ce55238d9c0" />
+<img width="1226" height="791" alt="Screenshot 2026-04-11 211830" src="https://github.com/user-attachments/assets/634b822b-ab45-448f-886b-0eec131d2406" />
+<img width="1307" height="681" alt="Screenshot 2026-04-11 211847" src="https://github.com/user-attachments/assets/2091593e-ace3-4c5b-86ee-856e9e032c6d" />
+<img width="1197" height="705" alt="Screenshot 2026-04-11 211753" src="https://github.com/user-attachments/assets/2283c599-4147-489d-87ed-da41f1bbc0f0" />
 
 </details>
 
