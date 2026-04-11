@@ -1,5 +1,5 @@
 # Keyboard-V2
-**A small, compact keyboard for everyday use.**
+**small, compact keyboard for everyday use.**
 <img width="1197" height="705" alt="Screenshot 2026-04-11 211753" src="https://github.com/user-attachments/assets/f20de9b2-a44a-4ada-bf85-db1aa76dd3aa" />
 
 ## Layout
@@ -23,8 +23,12 @@ Row 5 [Ctrl , Win, Alt, Null, Null, Null, Space, Null, Null,  Null, Alt, Fn, Ctr
 
 ## Features
 - Compact 60% layout
-- 5-row key matrix
+- Powered by RPi pico
 - Dedicated Fn layer
+- Smooth switches
+- Stabilizers
+- Custom CAD
+- Custom PCB
 
 ## How It Works
 The Keyboard-V2 uses a key matrix to scan all rows and columms. The Fn key enables a secondary layer for additional functionality. The case is 3D printed, with custom PCB and.
