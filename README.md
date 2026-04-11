@@ -38,8 +38,9 @@ The Keyboard-V2 uses a key matrix to scan all rows and columms. The Fn key enabl
 <details>
   <summary>License</summary>
 
-### MIT License
-**Copyright (c) [2026] [TomasD-git]**
+## MIT License
+
+**Copyright (c) 2026 TomasD-git**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
