@@ -37,6 +37,7 @@ The Keyboard-V2 uses a key matrix to scan all rows and columms. The Fn key enabl
   <summary>Pictures</summary>
 <img width="819" height="283" alt="Screenshot 2026-04-09 153726" src="https://github.com/user-attachments/assets/683ec29a-9837-499f-a3dc-e068a6107ffd" />
 <img width="1123" height="723" alt="Screenshot 2026-04-10 200309" src="https://github.com/user-attachments/assets/a5c9a06c-92a4-42b2-9aea-1ef65380335c" />
+<img width="1554" height="760" alt="image" src="https://github.com/user-attachments/assets/8b193648-1574-4a18-8b0d-0b06db249f35" />
 <img width="356" height="474" alt="Screenshot 2026-04-11 184744" src="https://github.com/user-attachments/assets/ef492f3b-a6a6-4367-ad02-a08eb90c64b6" />
 <img width="1252" height="813" alt="Screenshot 2026-04-11 184757" src="https://github.com/user-attachments/assets/6d5805df-149f-4ffc-a428-c73a2d6ea812" />
 <img width="845" height="754" alt="Screenshot 2026-04-11 211805" src="https://github.com/user-attachments/assets/bea24c99-a701-4e40-b68b-7ce55238d9c0" />
